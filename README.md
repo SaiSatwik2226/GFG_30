@@ -1,1 +1,2 @@
-"# GFG_30" 
+"# GFG_30"
+30 days GFG for learning basic algo
